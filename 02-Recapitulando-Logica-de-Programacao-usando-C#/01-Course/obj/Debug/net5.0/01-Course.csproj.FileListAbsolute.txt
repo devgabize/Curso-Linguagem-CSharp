@@ -1,0 +1,16 @@
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/01-Course/obj/Debug/net5.0/01-Course.csproj.AssemblyReference.cache
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/01-Course/obj/Debug/net5.0/01-Course.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/01-Course/obj/Debug/net5.0/01-Course.AssemblyInfoInputs.cache
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/01-Course/obj/Debug/net5.0/01-Course.AssemblyInfo.cs
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/01-Course/obj/Debug/net5.0/01-Course.csproj.CoreCompileInputs.cache
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/01-Course/bin/Debug/net5.0/01-Course
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/01-Course/bin/Debug/net5.0/01-Course.deps.json
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/01-Course/bin/Debug/net5.0/01-Course.runtimeconfig.json
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/01-Course/bin/Debug/net5.0/01-Course.runtimeconfig.dev.json
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/01-Course/bin/Debug/net5.0/01-Course.dll
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/01-Course/bin/Debug/net5.0/ref/01-Course.dll
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/01-Course/bin/Debug/net5.0/01-Course.pdb
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/01-Course/obj/Debug/net5.0/01-Course.dll
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/01-Course/obj/Debug/net5.0/ref/01-Course.dll
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/01-Course/obj/Debug/net5.0/01-Course.pdb
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/01-Course/obj/Debug/net5.0/01-Course.genruntimeconfig.cache

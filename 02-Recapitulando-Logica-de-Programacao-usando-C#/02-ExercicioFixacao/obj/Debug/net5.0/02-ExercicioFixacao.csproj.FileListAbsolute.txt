@@ -1,0 +1,16 @@
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/02-ExercicioFixacao/bin/Debug/net5.0/02-ExercicioFixacao
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/02-ExercicioFixacao/bin/Debug/net5.0/02-ExercicioFixacao.deps.json
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/02-ExercicioFixacao/bin/Debug/net5.0/02-ExercicioFixacao.runtimeconfig.json
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/02-ExercicioFixacao/bin/Debug/net5.0/02-ExercicioFixacao.runtimeconfig.dev.json
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/02-ExercicioFixacao/bin/Debug/net5.0/02-ExercicioFixacao.dll
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/02-ExercicioFixacao/bin/Debug/net5.0/ref/02-ExercicioFixacao.dll
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/02-ExercicioFixacao/bin/Debug/net5.0/02-ExercicioFixacao.pdb
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/02-ExercicioFixacao/obj/Debug/net5.0/02-ExercicioFixacao.csproj.AssemblyReference.cache
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/02-ExercicioFixacao/obj/Debug/net5.0/02-ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/02-ExercicioFixacao/obj/Debug/net5.0/02-ExercicioFixacao.AssemblyInfoInputs.cache
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/02-ExercicioFixacao/obj/Debug/net5.0/02-ExercicioFixacao.AssemblyInfo.cs
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/02-ExercicioFixacao/obj/Debug/net5.0/02-ExercicioFixacao.csproj.CoreCompileInputs.cache
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/02-ExercicioFixacao/obj/Debug/net5.0/02-ExercicioFixacao.dll
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/02-ExercicioFixacao/obj/Debug/net5.0/ref/02-ExercicioFixacao.dll
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/02-ExercicioFixacao/obj/Debug/net5.0/02-ExercicioFixacao.pdb
+/home/gabriel/Documentos/CursosProgramacao/Curso-Linguagem-CSharp/02-Recapitulando-Logica-de-Programacao-usando-C#/02-ExercicioFixacao/obj/Debug/net5.0/02-ExercicioFixacao.genruntimeconfig.cache
